@@ -1,12 +1,12 @@
-#Movie API Documentation
+<h1>Movie API Documentation</h1>
 <p>This documentation provides information about the RESTful API endpoints available in the Movie API.</p>
 
-##Base URL
+<h2>Base URL</h2>
 ```
 http://localhost:3000/api
 ```
 
-Endpoints
+<h3>Endpoints</h3>
 
 Retrieve all movies
 URL: /movies
