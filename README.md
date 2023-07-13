@@ -16,6 +16,7 @@ http://localhost:3000/api
 <h5>Response:
 Status: 200 OK
 Body:</h5>
+
 ```
 {
   "status": "success",
