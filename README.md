@@ -2,6 +2,7 @@
 <p>This documentation provides information about the RESTful API endpoints available in the Movie API.</p>
 
 <h2>Base URL</h2>
+
 ```
 http://localhost:3000/api
 ```
