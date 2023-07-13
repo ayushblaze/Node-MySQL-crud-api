@@ -1,8 +1,10 @@
-Movie API Documentation
-This documentation provides information about the RESTful API endpoints available in the Movie API.
+#Movie API Documentation
+<p>This documentation provides information about the RESTful API endpoints available in the Movie API.</p>
 
-Base URL
+##Base URL
+```
 http://localhost:3000/api
+```
 
 Endpoints
 
