@@ -9,13 +9,13 @@ http://localhost:3000/api
 
 <h3>Endpoints</h3>
 
-Retrieve all movies
-URL: /movies
-Method: GET
-Description: Retrieves a list of all movies.
-Response:
+<h4>1. Retrieve all movies</h4>
+<h5>URL: /movies</h5>
+<h5>Method: GET</h5>
+<h5>Description: Retrieves a list of all movies.</h5>
+<h5>Response:
 Status: 200 OK
-Body:
+Body:</h5>
 ```
 {
   "status": "success",
