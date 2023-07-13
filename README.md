@@ -14,7 +14,7 @@ http://localhost:3000/api
 <h5>Method: GET</h5>
 <h5>Description: Retrieves a list of all movies.</h5>
 <h5>Response:
-Status: 200 OK
+Status: 200 OK <br>
 Body:</h5>
 
 ```
